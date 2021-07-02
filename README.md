@@ -1,6 +1,6 @@
 # Arrays-And-Objects-Practice-3
 
-tasks:
+Tasks:
 1. Create an array 'events' of the different game events that happened (no
 duplicates)
 2. After the game has finished, is was found that the yellow card from minute 64
